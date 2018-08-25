@@ -1,0 +1,14 @@
+{
+  "name": "n-queens-cross",
+  "version": "0.1.0",
+  "description": "",
+  "author": {
+    "name": "Bruno Ukita",
+    "email": "brunoukita@gmail.com"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "MIT"
+}

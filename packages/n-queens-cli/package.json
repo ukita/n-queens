@@ -1,0 +1,19 @@
+{
+  "name": "n-queens-cli",
+  "version": "0.1.0",
+  "description": "",
+  "author": {
+    "name": "Bruno Ukita",
+    "email": "brunoukita@gmail.com"
+  },
+  "bin": "index.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "chart": "github:jstrace/chart",
+    "clear": "^0.1.0"
+  }
+}
